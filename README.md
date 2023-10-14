@@ -1,6 +1,7 @@
 # ArchitectureTests
 
-![Capture](https://github.com/HqRhn/ArchitectureTests/assets/141786593/d7c7bce3-4a79-4469-ab61-85237ffd800b)
+![Capture](https://github.com/HqRhn/Architecture-Tests/assets/141786593/3581b27d-b3e6-4cfd-bb13-302f24e19761)
+
 
 -----------------------------------
 **Why we need architecture tests ?**
